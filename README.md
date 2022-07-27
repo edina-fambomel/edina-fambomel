@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @edina-fambomel
 - 👀 estou fazendo por interesse em criar jogos e aplicativos
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 estou desenvolvendo um trabalho de pensamento computacional
+- 💞️ estou disposta a dazer jogos 
+- 📫 me procure
 
 <!---
 edina-fambomel/edina-fambomel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
